@@ -1,0 +1,5 @@
+Package: MAMOT
+Type: Package
+Title: Mapping and modelling terraces
+Version: 3.0.1.0
+RoxygenNote: 7.2.3
